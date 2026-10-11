@@ -1,4 +1,4 @@
-Skill Nexus Week 3 — TaskFlow
+Skill Nexis Week 3 — TaskFlow
 
 A full-stack task management application built using React, Node.js, Express, and MongoDB. The application includes user authentication, task management, task filtering, and image uploads.
 
@@ -33,7 +33,7 @@ Backend
 
 Project Structure
 
-Skill Nexus Week 3/
+Skill Nexis Week 3/
 ├── backend/
 │   ├── server.js
 │   ├── package.json
@@ -55,8 +55,8 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/abhigyantxo/Skill-Nexus-Week-3.git
-cd Skill-Nexus-Week-3
+git clone https://github.com/abhigyantxo/Skill-Nexis-Week-3.git
+cd Skill-Nexis-Week-3
 
 2. Configure the backend
 
@@ -127,4 +127,4 @@ GitHub: https://github.com/abhigyantxo
 
 ⸻
 
-Developed as part of the Skill Nexus Week 3 project.
+Developed as part of the Skill Nexis Week 3 project.
